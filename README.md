@@ -1,2 +1,2 @@
 # repositorio1
-Esto es una democracia de repositorio
+Esto es una demo de repositorio
